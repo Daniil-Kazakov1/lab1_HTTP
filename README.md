@@ -44,7 +44,7 @@
 
 4) Скрипт смены пароля (change_password.php)
 
-![рис.6: Смена пароля](https://github.com/Daniil-Kazakov1/lab1_HTTP/blob/main/chande_password.png)
+![рис.6: Смена пароля](https://github.com/Daniil-Kazakov1/lab1_HTTP/blob/main/change_password.png)
 
 5) Скрипт восстановления пароля (forgot_password.php)
 
