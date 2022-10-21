@@ -48,4 +48,12 @@
 
 5) Скрипт восстановления пароля (forgot_password.php)
 
-![рис.7: Восстановления пароля](https://github.com/Daniil-Kazakov1/lab1_HTTP/blob/main/
+![рис.7: Восстановления пароля](https://github.com/Daniil-Kazakov1/lab1_HTTP/blob/main/for_got_pass%20(1).png)
+
+- Пример запроса Клиент-Сервер
+
+![рис.8: Пример запрос-ответ](https://github.com/Daniil-Kazakov1/lab1_HTTP/lob/main/change_password.png)
+
+## Вывод
+
+Спроектирована и разработана система авторизации пользоватей на протоколе HTTP. 
