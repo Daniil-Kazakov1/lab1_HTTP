@@ -32,4 +32,20 @@
 
 1) Скрипт регистрации (registration.php)
 
-![рис.3: Регистрация](
+![рис.3: Регистрация](https://github.com/Daniil-Kazakov1/lab1_HTTP/blob/main/registration.png)
+
+2) Скрипт входа (enter.php)
+
+![рис.4: Вход](https://github.com/Daniil-Kazakov1/lab1_HTTP/blob/main/enter.png)
+
+3) Скрипт выхода (exit.php)
+
+![рис.5: Выход](https://github.com/Daniil-Kazakov1/lab1_HTTP/blob/main/exit.png)
+
+4) Скрипт смены пароля (change_password.php)
+
+![рис.6: Смена пароля](https://github.com/Daniil-Kazakov1/lab1_HTTP/blob/main/chande_password.png)
+
+5) Скрипт восстановления пароля (forgot_password.php)
+
+![рис.7: Восстановления пароля](https://github.com/Daniil-Kazakov1/lab1_HTTP/blob/main/
