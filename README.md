@@ -29,4 +29,7 @@
 ![рис.2:Структура БД](https://github.com/Daniil-Kazakov1/lab1_HTTP/blob/main/Структура%20БД.png)
 
 - Алгоритмы работы 
-- 
+
+1) Скрипт регистрации (registration.php)
+
+![рис.3: Регистрация](
